@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://media.tenor.com/PbKcxNYCFV8AAAAC/the-office-michael-scott.gif" alt="kryptxdemon" /> </p>
 
-<h3 align="center">Presently in my freshman year at Chittagong University of Engineering and Technology (CUET), Bangladesh. 🍛</h3>
+<h3 align="center">Presently in my 3rd year at Chittagong University of Engineering and Technology (CUET), Bangladesh. 🍛</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kryptxdemon&label=Profile%20views&color=0e75b6&style=flat" alt="kryptxdemon" /> </p>
 
